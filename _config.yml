@@ -1,0 +1,14 @@
+layout_spectrum: 0.40348213422112167
+typography_spectrum: 0.8241123876068741
+color:
+  brandStrength: 0.8492507089395076
+  lightness: 0.08097454090602696
+  saturation: 0.9989636270329356
+  rhythmicContrast: 0.3143859726842493
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: ckland
